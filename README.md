@@ -1,2 +1,2 @@
 # testingTeam
-for testing capabilitis of GITHUB
+for testing capabilitis of GITHUB with the team
